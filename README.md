@@ -1,4 +1,4 @@
-# alx-udaciity-project1
+# alx-udaciity-investigate-data
 ALX Udacity Project 1
 
 This project briefly considered all necessary steps necessary in data analysis using an already prepared data. 
